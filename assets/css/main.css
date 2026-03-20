@@ -3901,9 +3901,9 @@ input, select, textarea {
 
 /* control list spacing under each subtitle */
 #intro .cv-list {
-  list-style: none;
-  padding-left: 0;
-  margin: 0 0 1.1em 0;    /* space after list (before next subtitle) */
+  list-style: disc;
+  padding-left: 1.2em;  /* gives room for the bullets */
+  margin: 0 0 1.1em 0;
 }
 
 #intro .cv-list li {
