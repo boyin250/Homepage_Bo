@@ -3894,6 +3894,28 @@ input, select, textarea {
 #intro p.subtitle {
   color: #ffffff;
 }
+/* tighter spacing between subtitle and the list below it */
+#intro .subtitle {
+  margin-bottom: 0.3em;   /* reduce space under subtitle */
+}
+
+/* control list spacing under each subtitle */
+#intro .cv-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1.1em 0;    /* space after list (before next subtitle) */
+}
+
+#intro .cv-list li {
+  margin: 0.25em 0;       /* space between items */
+}
+
+/* increase space between the last research item and the Education subtitle */
+#intro .subtitle.edu-title {
+  margin-top: 1.6em;      /* increase as you like */
+}
+
+
 
 			@media screen and (max-width: 980px) {
 
