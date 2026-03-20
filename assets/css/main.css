@@ -3890,7 +3890,7 @@ input, select, textarea {
 			font-size: 1.25em;
 		}
 #intro p.subtitle {
-  color: inherit;
+  color: #ffffff;
 }
 
 			@media screen and (max-width: 980px) {
