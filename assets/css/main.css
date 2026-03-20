@@ -3912,7 +3912,7 @@ input, select, textarea {
 
 /* increase space between the last research item and the Education subtitle */
 #intro .subtitle.edu-title {
-  margin-top: 10.6em;      /* increase as you like */
+  margin-top: 1.6em;      /* increase as you like */
 }
 
 
