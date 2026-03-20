@@ -3885,7 +3885,9 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 	}
-
+#intro .actions {
+  margin-top: 1.5em; /* increase/decrease as you like */
+}
 		#intro p {
 			font-size: 1.25em;
 		}
