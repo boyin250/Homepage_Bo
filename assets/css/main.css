@@ -3874,7 +3874,7 @@ input, select, textarea {
 
 #intro .subtitle {
 	margin: 0.25em 0 1.25em 0; /* space below subtitle */
-	font-size: 1.2em;        /* slightly smaller than intro paragraph */
+	font-size: 1.8em;        /* slightly smaller than intro paragraph */
 	opacity: 0.99;
 }
 
