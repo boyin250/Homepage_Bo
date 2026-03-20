@@ -3890,7 +3890,7 @@ input, select, textarea {
 		background-image: url("images/sigs.png"), url("images/intro.svg");
   background-repeat: no-repeat, no-repeat;
   background-position: top 2rem right 2rem, top right;
-  background-size: 800px auto, 100% 100%;
+  background-size: 400px auto, 100% 100%;
 	}
 #intro .actions {
   margin-top: 3.5em; /* increase/decrease as you like */
