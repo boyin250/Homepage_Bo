@@ -3872,6 +3872,12 @@ input, select, textarea {
 
 /* Intro */
 
+#intro .subtitle {
+	margin: 0.25em 0 1.25em 0; /* space below subtitle */
+	font-size: 0.95em;        /* slightly smaller than intro paragraph */
+	opacity: 0.9;
+}
+
 	#intro {
 		background-attachment: fixed;
 		background-image: url("images/intro.svg");
