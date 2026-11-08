@@ -3947,15 +3947,4 @@ input, select, textarea {
 			}
 
 		}
-@media screen and (min-width: 1281px) and (prefers-reduced-motion: no-preference) {
-    #sidebar::after {
-        content: "";
-        position: absolute;
-        left: 1.5em;
-        bottom: 1.5em;
-        width: min(15em, 29vh);
-        aspect-ratio: 5 / 4;
-		background: url("../../images/ani.jpg") center / contain no-repeat;
-        pointer-events: none;
-    }
-}
+
