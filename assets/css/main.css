@@ -3947,7 +3947,7 @@ input, select, textarea {
 			}
 
 		}
-@media screen and (min-width: 1281px) and (min-height: 640px)
+@media screen and (min-width: 1281px) {
        and (prefers-reduced-motion: no-preference) {
     #sidebar::after {
         content: "";
