@@ -3955,7 +3955,7 @@ input, select, textarea {
         bottom: 1.5em;
         width: min(15em, 29vh);
         aspect-ratio: 5 / 4;
-        background: url("../../images/sidebar-animation.gif") center / contain no-repeat;
+		background: url("../../images/ani.jpg") center / contain no-repeat;
         pointer-events: none;
     }
 }
